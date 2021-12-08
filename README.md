@@ -1,1 +1,1 @@
-# analises-enem
+# Rock-Paper-Scissors Classificator
