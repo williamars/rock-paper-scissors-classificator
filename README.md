@@ -9,8 +9,8 @@ Este foi um projeto feito por [Marcelo Cesário](https://github.com/MarceloCMigu
 
 A explicação da construção e dos resultados podem ser vistos tanto em um relatório quanto numa apresentação:
 
-- Apresentação: [apresentação_do_projeto.pdf](https://github.com/williamars/rock-paper-scissors-classificator/blob/main/presentation_project.pdf)
-- Relatório: [relatório_de_explicação.pdf](https://github.com/williamars/rock-paper-scissors-classificator/blob/main/explanation_report.pdf)
+- Apresentação: [presentation_project.pdf](https://github.com/williamars/rock-paper-scissors-classificator/blob/main/presentation_project.pdf)
+- Relatório: [explanation_report.pdf](https://github.com/williamars/rock-paper-scissors-classificator/blob/main/explanation_report.pdf)
 
 ---
 
